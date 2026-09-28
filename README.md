@@ -126,27 +126,6 @@ Status   : Live, owner-approved, used by real customers
 
 ---
 
-### 💇 Salon Booking Site — `Client Project, Lahore`
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-> Paid build for a two-location beauty salon business — cart-to-WhatsApp booking flow, owner-editable pricing, and a built-in chatbot for customer questions.
-
-```
-Features : Service cart → WhatsApp scheduling, owner login, live chatbot
-Status   : Delivered, paid client work
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ### 🛒 Code of Dreams — General Store POS &nbsp; [![Live](https://img.shields.io/badge/🌐%20Live-Visit%20App-16a34a?style=flat-square)](https://code-of-dreams-general-store.streamlit.app)
 
 <table>
@@ -264,4 +243,3 @@ I don't build demos. I build things people actually use — then I go back and m
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a2e1a,70:0d3d2b,100:0a0a0f&height=140&section=footer&text=Self-taught%20since%202003.%20Still%20shipping.&fontSize=18&fontColor=6ee7b7&animation=fadeIn&fontAlignY=65" />
 
 </div>
-
