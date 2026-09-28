@@ -62,7 +62,7 @@ Next     : Claude API migration path already in the codebase
 </td>
 <td width="48%" valign="top">
 
-![Lesson Assistant Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/assets/lesson-assistant-preview.png)
+![Lesson Assistant Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/Assets/lesson-assistant-preview.png)
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ Next     : Claude API migration path already in the codebase
 </td>
 <td width="48%" valign="top">
 
-![BGSS Dashboard Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/assets/bgss-preview.png)
+![BGSS Dashboard Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/Assets/bgss-preview.png)
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Status   : Live, owner-approved, used by real customers
 </td>
 <td width="48%" valign="top">
 
-![Ice & Spice Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/assets/ice-spice-preview.png)
+![Ice & Spice Preview](https://raw.githubusercontent.com/Umrabilal/Umrabilal/main/Assets/ice-spice-preview.png)
 
 </td>
 </tr>
