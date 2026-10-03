@@ -21,6 +21,7 @@
 </div>
 
 <br/>
+---
 ## `whoami`
 
 <div align="center">
