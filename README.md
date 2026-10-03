@@ -28,6 +28,14 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="border-radius:12px" />
 
+## `whoami`
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" style="border-radius:12px" />
+</div>
+
+<br/>
+
 I'm a **Senior Executive at NADRA** (Pakistan's National Database & Registration Authority) with **17 years in data operations, IT infrastructure, and database management** — and I run a full parallel career building AI products on the side.
 
 I taught myself technology starting in **2003, from a net café in Peshawar**, long before "self-taught developer" was a career path. I built my entire early skillset on a mobile phone — an **Infinix Hot 10i** — before I ever owned a laptop.
@@ -35,6 +43,9 @@ I taught myself technology starting in **2003, from a net café in Peshawar**, l
 I'm not chasing an ML-research career. I made a deliberate call: I have time to **build and ship AI applications**, not to do deep research. So that's what I do — real tools, real users, in Urdu, for Pakistan.
 
 Alongside my day job, I run **Code of Dreams**, a YouTube channel teaching AI, Python, and Data Science in Urdu to beginners, and I build and ship products in the evenings and on weekends.
+
+---
+
 
 <br clear="right"/>
 
